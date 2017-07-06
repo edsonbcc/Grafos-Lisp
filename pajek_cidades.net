@@ -1,0 +1,18 @@
+*vertices 7
+1 "curitiba"
+2 "pg"
+3 "castro"
+4 "pinhais"
+5 "paranagua"
+6 "guarapuava"
+7 "guaratuba"
+*edges
+1 2 1
+1 3 1
+1 4 1
+1 5 1
+1 1 1
+1 7 1
+7 4 1
+6 7 1
+5 4 1
